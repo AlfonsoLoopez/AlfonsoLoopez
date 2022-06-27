@@ -1,6 +1,6 @@
-- 👋 Hola mi nombre es Alfonso López
-- 👀 Soy estudiante ISC
-- 🌱 Soy Méxicano
+- 👋 Hola soy Alfonso López
+- 👀 Estudiante ISC
+- 🌱 Méxicano
 - 💞️ Tengo 26 años
 - 📫 Twitter: @Alfonso_Loopez
 <!---
