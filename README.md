@@ -1,5 +1,5 @@
 - 👋 Hola soy Alfonso López
-- 👀 Recién Egresado ISC
+- 👀 Desarrollador Web Jr.
 - 🌱 Méxicano
 - 💞️ Tengo 28 años
 <!---
